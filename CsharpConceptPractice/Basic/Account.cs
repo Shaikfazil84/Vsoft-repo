@@ -3,13 +3,11 @@ using System.Collections.Generic;
 
 class BankAccount
 {
-    // Private fields
     private string accountNumber;
     private double balance;
     private string ownerName;
     private List<string> transactions = new List<string>();
 
-    // Read-only properties
     public string AccountNumber
     {
         get { return accountNumber; }
@@ -20,14 +18,11 @@ class BankAccount
         get { return balance; }
     }
 
-    // Read/Write property
     public string OwnerName
     {
         get { return ownerName; }
         set { ownerName = value; }
     }
-
-    // Constructor
     public BankAccount(string ownerName, double initialBalance = 0)
     {
         this.ownerName = ownerName;
@@ -37,8 +32,6 @@ class BankAccount
 
         transactions.Add("Account Created. Balance: " + balance);
     }
-
-    // Deposit
     public void Deposit(double amount)
     {
         if (amount <= 0)
@@ -50,8 +43,6 @@ class BankAccount
         balance += amount;
         transactions.Add("Deposited: " + amount);
     }
-
-    // Withdraw
     public void Withdraw(double amount)
     {
         if (amount <= 0)
@@ -70,7 +61,6 @@ class BankAccount
         transactions.Add("Withdrawn: " + amount);
     }
 
-    // Transfer
     public void Transfer(double amount, BankAccount targetAccount)
     {
         if (amount <= 0)
@@ -91,8 +81,6 @@ class BankAccount
         transactions.Add("Transferred " + amount + " to " + targetAccount.OwnerName);
         targetAccount.transactions.Add("Received " + amount + " from " + OwnerName);
     }
-
-    // Transaction History
     public List<string> GetTransactionHistory()
     {
         return new List<string>(transactions);
