@@ -18,17 +18,33 @@ namespace practiceprom
             age=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter your marks:");
             marks=Convert.ToDouble(Console.ReadLine());
-            if(marks>=50)
+            if(marks>=80)
             {
                 isPassed = true;
                 grade='A';
 
             }
-            else
+            else if(marks>=70)
             {
-                isPassed=false;
-                grade='F';
+                isPassed=true;
+                grade = 'B';
+            
             }
+            else if(marks>=60)
+            {
+                isPassed=true;
+                grade='C';
+            }
+            else if(marks>=50)
+                {
+                    isPassed=true;
+                    grade='D';
+                }
+             else
+                {
+                    isPassed=false;
+                    grade='F';
+                }
             Console.WriteLine();
             Console.WriteLine("----Student Details----");
             Console.WriteLine("College:"+College);
