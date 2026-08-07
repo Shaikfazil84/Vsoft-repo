@@ -110,7 +110,7 @@ namespace practiceprom
             int total =Add(100,300);
             Console.WriteLine("sum=" + total);
             Console.WriteLine();
-            Console.WriteLine("Program finished");
+            Console.Writine("Program finished");
         }
         static void Greet(string studentName)
         {
