@@ -26,6 +26,8 @@ class Variables
         al.ArrLengthMet();
         ArrLoop ac = new ArrLoop();
         ac.ArrLoopMet();
+        ListPractice lp = new ListPractice();
+        lp.ListPrint();
     }
 }
 class Variables2
