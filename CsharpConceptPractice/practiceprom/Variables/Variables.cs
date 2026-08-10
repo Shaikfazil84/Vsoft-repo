@@ -1,5 +1,7 @@
 using System;
+namespace practiceprom{
 class Variables
+
 {
     public static void Main(string[] args)
     {
@@ -16,6 +18,14 @@ class Variables
         s.Store();
         UserInput u=new UserInput();
         u.Input();
+        ArrayPractice a=new ArrayPractice();
+        a.PrintArray();
+        ArrValChanges avc = new ArrValChanges();
+        avc.ChangeArrValues();
+        ArrLength al = new ArrLength();
+        al.ArrLengthMet();
+        ArrLoop ac = new ArrLoop();
+        ac.ArrLoopMet();
     }
 }
 class Variables2
@@ -73,4 +83,5 @@ class Input1
 {
     public string? name;
     public int age;
+}
 }
