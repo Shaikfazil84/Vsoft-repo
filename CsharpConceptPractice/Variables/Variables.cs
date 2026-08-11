@@ -7,34 +7,44 @@ namespace practiceprom
         public static void Main(string[] args)
         {
 
-            int num1 = 10;
-            string num2 = "five";
-            double num3 = 555.3;
-            char num4 = 'A';
-            bool num5 = true;
-            Console.WriteLine($"{num1}, {num2}, {num3}, {num4}, {num5}");
-            Variables2 v2 = new Variables2();
-            v2.Display();
-            StoringInObj s = new StoringInObj();
-            s.Store();
-            UserInput u = new UserInput();
-            u.Input();
-            ArrayPractice a = new ArrayPractice();
-            a.PrintArray();
-            ArrValChanges avc = new ArrValChanges();
-            avc.ChangeArrValues();
-            ArrLength al = new ArrLength();
-            al.ArrLengthMet();
-            ArrLoop ac = new ArrLoop();
-            ac.ArrLoopMet();
-            ListPractice lp = new ListPractice();
-            lp.ListPrint();
-            Dictionary d=new Dictionary();
-            d.DictionaryPrac();
-            DictionaryAccess da=new DictionaryAccess();
-            da.DictionaryAccessMet();
-            DitctionaryLoop dl=new DitctionaryLoop();
-            dl.DictionaryLoop();
+            // int num1 = 10;
+            // string num2 = "five";
+            // double num3 = 555.3;
+            // char num4 = 'A';
+            // bool num5 = true;
+            // Console.WriteLine($"{num1}, {num2}, {num3}, {num4}, {num5}");
+            // Variables2 v2 = new Variables2();
+            // v2.Display();
+            // StoringInObj s = new StoringInObj();
+            // s.Store();
+            // UserInput u = new UserInput();
+            // u.Input();
+            // ArrayPractice a = new ArrayPractice();
+            // a.PrintArray();
+            // ArrValChanges avc = new ArrValChanges();
+            // avc.ChangeArrValues();
+            // ArrLength al = new ArrLength();
+            // al.ArrLengthMet();
+            // ArrLoop ac = new ArrLoop();
+            // ac.ArrLoopMet();
+            // ListPractice lp = new ListPractice();
+            // lp.ListPrint();
+            // Dictionary d=new Dictionary();
+            // d.DictionaryPrac();
+            // DictionaryAccess da=new DictionaryAccess();
+            // da.DictionaryAccessMet();
+            // DitctionaryLoop dl=new DitctionaryLoop();
+            // dl.DictionaryLoop();
+            // Operators op=new Operators();
+            // op.OperatorsMet();
+            // ChangeOperator co=new ChangeOperator();
+            // co.ChangeOperatorMet();
+            // LogicalOperator lo=new LogicalOperator();
+            // lo.LogicalOperatorMet();
+            // IncrementDecrement id=new IncrementDecrement();
+            // id.IncrementDecrementMet();
+            EvenOdd eo=new EvenOdd();
+            eo.EvenOddMet();
         }
     }
     class Variables2
