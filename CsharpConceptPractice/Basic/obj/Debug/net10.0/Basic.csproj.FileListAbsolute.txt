@@ -1,0 +1,15 @@
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\bin\Debug\net10.0\Basic.exe
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\bin\Debug\net10.0\Basic.deps.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\bin\Debug\net10.0\Basic.runtimeconfig.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\bin\Debug\net10.0\Basic.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\bin\Debug\net10.0\Basic.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.AssemblyInfoInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.AssemblyInfo.cs
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.csproj.CoreCompileInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.sourcelink.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\refint\Basic.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\Basic.genruntimeconfig.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Basic\obj\Debug\net10.0\ref\Basic.dll

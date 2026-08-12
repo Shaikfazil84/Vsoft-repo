@@ -1,0 +1,15 @@
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.AssemblyInfoInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.AssemblyInfo.cs
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.csproj.CoreCompileInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.sourcelink.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\bin\Debug\net10.0\OperatorsPractice.exe
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\bin\Debug\net10.0\OperatorsPractice.deps.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\bin\Debug\net10.0\OperatorsPractice.runtimeconfig.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\bin\Debug\net10.0\OperatorsPractice.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\bin\Debug\net10.0\OperatorsPractice.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\refint\OperatorsPractice.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\OperatorsPractice.genruntimeconfig.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\OperatorsPractice\obj\Debug\net10.0\ref\OperatorsPractice.dll

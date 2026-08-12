@@ -1,0 +1,15 @@
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\bin\Debug\net10.0\Variables.exe
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\bin\Debug\net10.0\Variables.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\bin\Debug\net10.0\Variables.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Variables\obj\Debug\net10.0\ref\Variables.dll
