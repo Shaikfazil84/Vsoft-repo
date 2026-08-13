@@ -1,0 +1,15 @@
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\bin\Debug\net10.0\Loops.exe
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\bin\Debug\net10.0\Loops.deps.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\bin\Debug\net10.0\Loops.runtimeconfig.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\bin\Debug\net10.0\Loops.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\bin\Debug\net10.0\Loops.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.AssemblyInfoInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.AssemblyInfo.cs
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.csproj.CoreCompileInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.sourcelink.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\refint\Loops.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\Loops.genruntimeconfig.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Loops\obj\Debug\net10.0\ref\Loops.dll

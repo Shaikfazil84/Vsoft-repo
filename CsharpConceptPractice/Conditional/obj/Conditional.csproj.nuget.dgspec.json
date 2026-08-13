@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj": {}
+    "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj": {}
   },
   "projects": {
-    "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj": {
+    "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj",
+        "projectUniqueName": "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj",
         "projectName": "Conditional",
-        "projectPath": "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj",
+        "projectPath": "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\Conditional.csproj",
         "packagesPath": "C:\\Users\\VSOFT\\.nuget\\packages\\",
-        "outputPath": "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\obj\\",
+        "outputPath": "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\Conditional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

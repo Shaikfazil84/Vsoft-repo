@@ -1,0 +1,15 @@
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\bin\Debug\net10.0\Practing.exe
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\bin\Debug\net10.0\Practing.deps.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\bin\Debug\net10.0\Practing.runtimeconfig.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\bin\Debug\net10.0\Practing.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\bin\Debug\net10.0\Practing.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.AssemblyInfoInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.AssemblyInfo.cs
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.csproj.CoreCompileInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.sourcelink.json
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\refint\Practing.dll
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.pdb
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\Practing.genruntimeconfig.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\Practing\obj\Debug\net10.0\ref\Practing.dll

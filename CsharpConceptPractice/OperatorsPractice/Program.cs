@@ -22,5 +22,7 @@ class Program1
         per.PercentageMet();
         Swaping sp=new Swaping();
         sp.SwapingMet();
+        Incre ni = new Incre();
+        ni.Increm();
     }
 }
