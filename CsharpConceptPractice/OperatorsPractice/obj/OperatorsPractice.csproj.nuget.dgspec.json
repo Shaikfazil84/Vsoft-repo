@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj": {}
+    "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj": {
+    "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj",
+        "projectUniqueName": "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj",
         "projectName": "OperatorsPractice",
-        "projectPath": "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj",
+        "projectPath": "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\OperatorsPractice.csproj",
         "packagesPath": "C:\\Users\\VSOFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\obj\\",
+        "outputPath": "c:\\Development\\Vsoft-repo\\CsharpConceptPractice\\OperatorsPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

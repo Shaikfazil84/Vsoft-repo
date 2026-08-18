@@ -1,0 +1,5 @@
+C:\Development\Vsoft-repo\CsharpConceptPractice\obj\Debug\net10.0\CsharpConceptPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Vsoft-repo\CsharpConceptPractice\obj\Debug\net10.0\CsharpConceptPractice.AssemblyInfoInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\obj\Debug\net10.0\CsharpConceptPractice.AssemblyInfo.cs
+C:\Development\Vsoft-repo\CsharpConceptPractice\obj\Debug\net10.0\CsharpConceptPractice.csproj.CoreCompileInputs.cache
+C:\Development\Vsoft-repo\CsharpConceptPractice\obj\Debug\net10.0\CsharpConceptPractice.sourcelink.json
